@@ -1,0 +1,7 @@
+﻿1 cycle from 1 to 10 
+2 read and write data from Data.txt file 2 times
+3 write "Hello world"
+4 write data that is given
+5 while cycle
+6 for cycle 
+7 write information in thread activity
