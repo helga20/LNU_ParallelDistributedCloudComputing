@@ -1,0 +1,3 @@
+﻿  lab10.cpp
+C:\Users\Oksana\RiderProjects\Паралельні та розподільні обч\lab10\lab10.cpp(149,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab10.vcxproj -> C:\Users\Oksana\RiderProjects\Паралельні та розподільні обч\lab10\x64\Debug\lab10.exe
