@@ -1,4 +1,5 @@
 # LNU_ParallelDistributedCloudComputing
+https://t.me/+lkF0J6GFEpNmMjFi 
 Паралельні, розподілені та хмарні обчислення
 Лектор: Гошко Б.М
 Практик: Пасічник Тимофій Васильович
