@@ -1,0 +1,3 @@
+/home/lolpie/Documents/лабораторні/paralel/lab_9/build/Debug/CMakeFiles/lab_9.dir
+/home/lolpie/Documents/лабораторні/paralel/lab_9/build/Debug/CMakeFiles/edit_cache.dir
+/home/lolpie/Documents/лабораторні/paralel/lab_9/build/Debug/CMakeFiles/rebuild_cache.dir
