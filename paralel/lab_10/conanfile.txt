@@ -1,0 +1,5 @@
+[requires]
+numcpp/2.8.0
+
+[generators]
+cmake

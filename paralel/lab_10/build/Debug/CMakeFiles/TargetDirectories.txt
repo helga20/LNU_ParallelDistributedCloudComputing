@@ -1,0 +1,3 @@
+/mnt/1/Documents/лабораторні/paralel/lab_10/build/Debug/CMakeFiles/lab_10.dir
+/mnt/1/Documents/лабораторні/paralel/lab_10/build/Debug/CMakeFiles/edit_cache.dir
+/mnt/1/Documents/лабораторні/paralel/lab_10/build/Debug/CMakeFiles/rebuild_cache.dir
